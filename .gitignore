@@ -1,3 +1,10 @@
+# Directories
+.vs/
+.vscode/
+build/
+
+# Files
+*.exe
 *.o
 *.obj
-*.exe
+*.user
