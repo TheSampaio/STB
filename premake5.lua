@@ -1,4 +1,4 @@
-project "stb"
+project "STB"
     kind "StaticLib"
     language "C++"
     location "build"
